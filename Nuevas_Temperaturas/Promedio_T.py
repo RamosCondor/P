@@ -42,8 +42,8 @@ for ciudad in range(len(ciudades)):
             auxtmpminima = temperaturas[dia][ciudad]
             diaMasFrio = dias[dia]
 
-    print(f"El dia más caluroso de la ciudad de {ciudades[ciudad]} es {diaMasCaluroso} con {auxtmpmaxima}°C")
-    print(f"El dia más frío de la ciudad de {ciudades[ciudad]} es {diaMasFrio} con {auxtmpminima}°C")
+    print(f"El dia mas caluroso de la ciudad de {ciudades[ciudad]} es {diaMasCaluroso} con {auxtmpmaxima}°C")
+    print(f"El dia mas frío de la ciudad de {ciudades[ciudad]} es {diaMasFrio} con {auxtmpminima}°C")
 
 print("-" * 40)
 
